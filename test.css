@@ -111,8 +111,8 @@ width: 100%;
 }
 .sub1 {
   font-size: 14px;
-  background: black;
-  color: white;
+  background: white;
+  color: black;
   padding: 4px 10px;
   border: solid 1px black;
   cursor: pointer;
